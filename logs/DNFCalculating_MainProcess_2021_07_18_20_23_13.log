@@ -1,0 +1,7 @@
+2021-07-18 20:23:14,208 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-18 20:23:14,619 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-07-18 20:23:14,643 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-18 20:23:14,864 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "GET /b01bfj76f HTTP/1.1" 200 5920
+2021-07-18 20:23:14,888 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-18 20:23:15,469 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-07-18 20:23:16,169 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None

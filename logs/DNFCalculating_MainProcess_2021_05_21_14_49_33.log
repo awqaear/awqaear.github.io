@@ -1,0 +1,7 @@
+2021-05-21 14:49:35,965 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-21 14:49:36,175 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-21 14:50:42,739 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-05-21 14:50:43,096 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-05-21 14:50:43,443 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.70s
+2021-05-21 14:50:43,610 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-05-21 14:50:43,610 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=22, speed=41.46/s totalWork=7

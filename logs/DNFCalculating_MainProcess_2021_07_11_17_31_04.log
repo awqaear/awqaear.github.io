@@ -1,0 +1,269 @@
+2021-07-11 17:31:06,545 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-07-11 17:31:06,805 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-07-11 17:31:24,619 ERROR [DNFCalculating] 载入json:3481: list index out of range
+2021-07-11 17:32:06,792 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:32:07,635 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:07,710 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.91s
+2021-07-11 17:32:08,138 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:08,141 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=32, speed=61.87/s totalWork=7
+2021-07-11 17:32:16,552 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:32:17,075 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:17,134 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.58s
+2021-07-11 17:32:17,591 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:17,594 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=96, speed=180.92/s totalWork=7
+2021-07-11 17:32:37,513 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:32:38,345 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:38,397 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.88s
+2021-07-11 17:32:38,847 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:32:38,850 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=96, speed=185.52/s totalWork=7
+2021-07-11 17:33:02,597 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:33:03,159 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:33:03,231 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.63s
+2021-07-11 17:33:03,668 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:33:03,671 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=96, speed=181.71/s totalWork=7
+2021-07-11 17:33:30,303 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:33:30,909 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=0
+2021-07-11 17:33:31,539 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=0
+2021-07-11 17:33:32,093 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:33:32,600 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=1 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:33:33,108 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=5 sync_batch_size=100 processed_result=100, speed=43.00/s totalWork=7
+2021-07-11 17:33:33,645 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=4 sync_batch_size=100 processed_result=600, speed=209.54/s totalWork=7
+2021-07-11 17:33:33,651 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=1000, speed=348.57/s totalWork=7
+2021-07-11 17:33:34,152 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=1000, speed=296.71/s totalWork=7
+2021-07-11 17:33:34,155 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=1100, speed=326.14/s totalWork=7
+2021-07-11 17:33:34,675 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=1900, speed=488.02/s totalWork=7
+2021-07-11 17:33:34,677 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=2000, speed=513.47/s totalWork=7
+2021-07-11 17:33:35,198 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=2800, speed=634.04/s totalWork=7
+2021-07-11 17:33:35,200 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=2900, speed=656.35/s totalWork=7
+2021-07-11 17:33:35,202 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=3000, speed=678.68/s totalWork=7
+2021-07-11 17:33:35,721 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=3900, speed=789.65/s totalWork=7
+2021-07-11 17:33:35,724 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=4000, speed=809.45/s totalWork=7
+2021-07-11 17:33:35,740 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=5000, speed=1008.57/s totalWork=7
+2021-07-11 17:33:36,244 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=5000, speed=915.46/s totalWork=7
+2021-07-11 17:33:36,245 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=5100, speed=933.48/s totalWork=7
+2021-07-11 17:33:36,259 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=6000, speed=1095.53/s totalWork=7
+2021-07-11 17:33:36,767 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=6100, speed=1019.30/s totalWork=7
+2021-07-11 17:33:36,769 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=6200, speed=1035.63/s totalWork=7
+2021-07-11 17:33:36,782 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=2 sync_batch_size=100 processed_result=7000, speed=1166.65/s totalWork=7
+2021-07-11 17:33:37,290 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=7200, speed=1106.41/s totalWork=7
+2021-07-11 17:33:37,292 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=7300, speed=1121.44/s totalWork=7
+2021-07-11 17:33:37,303 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=8000, speed=1226.87/s totalWork=7
+2021-07-11 17:33:37,812 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=8300, speed=1180.64/s totalWork=7
+2021-07-11 17:33:37,814 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=8400, speed=1194.58/s totalWork=7
+2021-07-11 17:33:37,823 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=2 sync_batch_size=100 processed_result=9000, speed=1278.28/s totalWork=7
+2021-07-11 17:33:38,335 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=9200, speed=1218.08/s totalWork=7
+2021-07-11 17:33:38,337 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=9300, speed=1230.96/s totalWork=7
+2021-07-11 17:33:38,349 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=10000, speed=1321.71/s totalWork=7
+2021-07-11 17:33:38,858 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=10400, speed=1287.81/s totalWork=7
+2021-07-11 17:33:38,860 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=10500, speed=1299.85/s totalWork=7
+2021-07-11 17:33:38,868 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=11000, speed=1360.41/s totalWork=7
+2021-07-11 17:33:39,380 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=11400, speed=1325.83/s totalWork=7
+2021-07-11 17:33:39,382 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=11500, speed=1337.19/s totalWork=7
+2021-07-11 17:33:39,390 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=12000, speed=1394.04/s totalWork=7
+2021-07-11 17:33:39,903 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=12500, speed=1370.47/s totalWork=7
+2021-07-11 17:33:39,905 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=12600, speed=1381.06/s totalWork=7
+2021-07-11 17:33:39,912 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=13000, speed=1423.90/s totalWork=7
+2021-07-11 17:33:40,426 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=13 sync_batch_size=100 processed_result=13400, speed=1389.51/s totalWork=7
+2021-07-11 17:33:40,428 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=12 sync_batch_size=100 processed_result=13500, speed=1399.52/s totalWork=7
+2021-07-11 17:33:40,437 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=14000, speed=1450.01/s totalWork=7
+2021-07-11 17:33:40,949 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=14700, speed=1445.89/s totalWork=7
+2021-07-11 17:33:40,951 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=14800, speed=1455.41/s totalWork=7
+2021-07-11 17:33:40,954 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=15000, speed=1474.64/s totalWork=7
+2021-07-11 17:33:41,471 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=15600, speed=1459.41/s totalWork=7
+2021-07-11 17:33:41,473 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=15700, speed=1468.49/s totalWork=7
+2021-07-11 17:33:41,478 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=16000, speed=1495.85/s totalWork=7
+2021-07-11 17:33:41,994 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=16800, speed=1498.35/s totalWork=7
+2021-07-11 17:33:41,997 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=16900, speed=1506.97/s totalWork=7
+2021-07-11 17:33:41,999 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=17000, speed=1515.69/s totalWork=7
+2021-07-11 17:33:42,518 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=17700, speed=1508.26/s totalWork=7
+2021-07-11 17:33:42,520 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=17800, speed=1516.46/s totalWork=7
+2021-07-11 17:33:42,524 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=18000, speed=1532.99/s totalWork=7
+2021-07-11 17:33:43,040 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=18900, speed=1541.90/s totalWork=7
+2021-07-11 17:33:43,042 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=19000, speed=1549.74/s totalWork=7
+2021-07-11 17:33:43,563 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=19700, speed=1541.39/s totalWork=7
+2021-07-11 17:33:43,564 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=19800, speed=1549.00/s totalWork=7
+2021-07-11 17:33:43,568 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=20000, speed=1564.23/s totalWork=7
+2021-07-11 17:33:44,086 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=20800, speed=1563.48/s totalWork=7
+2021-07-11 17:33:44,088 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=20900, speed=1570.75/s totalWork=7
+2021-07-11 17:33:44,090 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=21000, speed=1578.04/s totalWork=7
+2021-07-11 17:33:44,608 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=21800, speed=1576.71/s totalWork=7
+2021-07-11 17:33:44,610 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=21900, speed=1583.75/s totalWork=7
+2021-07-11 17:33:44,612 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=22000, speed=1590.75/s totalWork=7
+2021-07-11 17:33:44,628 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=23000, speed=1661.09/s totalWork=7
+2021-07-11 17:33:45,131 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=23000, speed=1602.89/s totalWork=7
+2021-07-11 17:33:45,133 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=23100, speed=1609.62/s totalWork=7
+2021-07-11 17:33:45,654 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=23800, speed=1600.32/s totalWork=7
+2021-07-11 17:33:45,656 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=23900, speed=1606.83/s totalWork=7
+2021-07-11 17:33:45,658 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=24000, speed=1613.34/s totalWork=7
+2021-07-11 17:33:45,674 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=25000, speed=1678.77/s totalWork=7
+2021-07-11 17:33:46,177 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=25000, speed=1623.97/s totalWork=7
+2021-07-11 17:33:46,179 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=25100, speed=1630.21/s totalWork=7
+2021-07-11 17:33:46,699 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=25900, speed=1627.15/s totalWork=7
+2021-07-11 17:33:46,702 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=26000, speed=1633.21/s totalWork=7
+2021-07-11 17:33:46,716 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=27000, speed=1694.49/s totalWork=7
+2021-07-11 17:33:47,222 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=27000, speed=1642.35/s totalWork=7
+2021-07-11 17:33:47,225 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=27100, speed=1648.13/s totalWork=7
+2021-07-11 17:33:47,240 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=28000, speed=1701.33/s totalWork=7
+2021-07-11 17:33:47,745 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=28000, speed=1650.68/s totalWork=7
+2021-07-11 17:33:47,747 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=28100, speed=1656.38/s totalWork=7
+2021-07-11 17:33:47,762 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=29000, speed=1707.94/s totalWork=7
+2021-07-11 17:33:48,268 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=29000, speed=1658.47/s totalWork=7
+2021-07-11 17:33:48,270 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=29100, speed=1664.00/s totalWork=7
+2021-07-11 17:33:48,284 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=30000, speed=1714.06/s totalWork=7
+2021-07-11 17:33:48,790 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=30000, speed=1665.90/s totalWork=7
+2021-07-11 17:33:48,793 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=30100, speed=1671.27/s totalWork=7
+2021-07-11 17:33:48,807 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=31000, speed=1719.82/s totalWork=7
+2021-07-11 17:33:49,313 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=31100, speed=1678.24/s totalWork=7
+2021-07-11 17:33:49,316 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=31200, speed=1683.44/s totalWork=7
+2021-07-11 17:33:49,836 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=31900, speed=1674.18/s totalWork=7
+2021-07-11 17:33:49,838 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=32000, speed=1679.24/s totalWork=7
+2021-07-11 17:33:50,359 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=32700, speed=1670.35/s totalWork=7
+2021-07-11 17:33:50,361 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=32800, speed=1675.26/s totalWork=7
+2021-07-11 17:33:50,365 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=33000, speed=1685.17/s totalWork=7
+2021-07-11 17:33:50,881 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=33600, speed=1671.71/s totalWork=7
+2021-07-11 17:33:50,883 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=33700, speed=1676.54/s totalWork=7
+2021-07-11 17:33:50,888 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=34000, speed=1691.01/s totalWork=7
+2021-07-11 17:33:51,404 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=34800, speed=1687.55/s totalWork=7
+2021-07-11 17:33:51,406 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=34900, speed=1692.19/s totalWork=7
+2021-07-11 17:33:51,409 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=35000, speed=1696.84/s totalWork=7
+2021-07-11 17:33:51,927 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=35500, speed=1678.89/s totalWork=7
+2021-07-11 17:33:51,929 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=35600, speed=1683.46/s totalWork=7
+2021-07-11 17:33:51,936 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=36020, speed=1702.76/s totalWork=7
+2021-07-11 17:33:52,449 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=36520, speed=1685.49/s totalWork=7
+2021-07-11 17:33:52,452 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=36620, speed=1689.92/s totalWork=7
+2021-07-11 17:33:52,459 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=37040, speed=1708.71/s totalWork=7
+2021-07-11 17:33:52,972 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=37360, speed=1683.66/s totalWork=7
+2021-07-11 17:33:52,975 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=37460, speed=1687.96/s totalWork=7
+2021-07-11 17:33:52,984 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=38060, speed=1714.27/s totalWork=7
+2021-07-11 17:33:53,495 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=38060, speed=1675.71/s totalWork=7
+2021-07-11 17:33:53,496 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=38160, speed=1680.00/s totalWork=7
+2021-07-11 17:33:53,536 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=23.23s
+2021-07-11 17:33:54,004 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: after join remaining_qize=1 sync_batch_size=100 processed_result=38620, speed=1663.12/s totalWork=7
+2021-07-11 17:33:54,004 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=38640, speed=1663.93/s totalWork=7
+2021-07-11 17:33:54,005 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=38640, speed=1663.89/s totalWork=7
+2021-07-11 17:34:39,708 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-11 17:34:40,305 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=0
+2021-07-11 17:34:40,920 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=0
+2021-07-11 17:34:41,490 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:34:41,997 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=1 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-11 17:34:42,505 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=2 sync_batch_size=100 processed_result=100, speed=43.31/s totalWork=7
+2021-07-11 17:34:43,012 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=4 sync_batch_size=100 processed_result=300, speed=106.53/s totalWork=7
+2021-07-11 17:34:43,534 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=800, speed=239.62/s totalWork=7
+2021-07-11 17:34:43,538 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=1000, speed=299.16/s totalWork=7
+2021-07-11 17:34:44,058 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=1500, speed=388.42/s totalWork=7
+2021-07-11 17:34:44,059 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=1600, speed=414.14/s totalWork=7
+2021-07-11 17:34:44,065 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=2000, speed=516.88/s totalWork=7
+2021-07-11 17:34:44,580 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=2300, speed=524.55/s totalWork=7
+2021-07-11 17:34:44,582 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=2400, speed=547.10/s totalWork=7
+2021-07-11 17:34:44,592 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=3000, speed=682.34/s totalWork=7
+2021-07-11 17:34:45,103 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=3400, speed=692.81/s totalWork=7
+2021-07-11 17:34:45,106 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=3500, speed=712.90/s totalWork=7
+2021-07-11 17:34:45,113 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=4000, speed=813.43/s totalWork=7
+2021-07-11 17:34:45,626 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=4500, speed=828.77/s totalWork=7
+2021-07-11 17:34:45,627 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=4600, speed=846.94/s totalWork=7
+2021-07-11 17:34:45,633 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=5000, speed=919.50/s totalWork=7
+2021-07-11 17:34:46,148 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=5500, speed=924.01/s totalWork=7
+2021-07-11 17:34:46,150 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=5600, speed=940.45/s totalWork=7
+2021-07-11 17:34:46,156 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=6000, speed=1006.62/s totalWork=7
+2021-07-11 17:34:46,671 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=6400, speed=988.41/s totalWork=7
+2021-07-11 17:34:46,673 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=6500, speed=1003.49/s totalWork=7
+2021-07-11 17:34:46,681 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=7000, speed=1079.28/s totalWork=7
+2021-07-11 17:34:47,194 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=7500, speed=1071.71/s totalWork=7
+2021-07-11 17:34:47,196 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=7600, speed=1085.77/s totalWork=7
+2021-07-11 17:34:47,202 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=8000, speed=1141.86/s totalWork=7
+2021-07-11 17:34:47,717 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=8500, speed=1130.19/s totalWork=7
+2021-07-11 17:34:47,719 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=8600, speed=1143.17/s totalWork=7
+2021-07-11 17:34:47,725 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=9000, speed=1195.32/s totalWork=7
+2021-07-11 17:34:48,239 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=9300, speed=1156.18/s totalWork=7
+2021-07-11 17:34:48,241 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=9400, speed=1168.32/s totalWork=7
+2021-07-11 17:34:48,250 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=10000, speed=1241.52/s totalWork=7
+2021-07-11 17:34:48,762 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=10400, speed=1214.10/s totalWork=7
+2021-07-11 17:34:48,764 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=10500, speed=1225.42/s totalWork=7
+2021-07-11 17:34:48,772 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=2 sync_batch_size=100 processed_result=11000, speed=1282.66/s totalWork=7
+2021-07-11 17:34:49,284 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=11200, speed=1232.28/s totalWork=7
+2021-07-11 17:34:49,287 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=11300, speed=1242.95/s totalWork=7
+2021-07-11 17:34:49,299 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=12000, speed=1318.22/s totalWork=7
+2021-07-11 17:34:49,808 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=12100, speed=1258.83/s totalWork=7
+2021-07-11 17:34:49,810 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=12200, speed=1268.97/s totalWork=7
+2021-07-11 17:34:49,822 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=13000, speed=1350.51/s totalWork=7
+2021-07-11 17:34:50,331 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=13300, speed=1312.34/s totalWork=7
+2021-07-11 17:34:50,333 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=13400, speed=1321.91/s totalWork=7
+2021-07-11 17:34:50,341 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=14000, speed=1379.88/s totalWork=7
+2021-07-11 17:34:50,853 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=14100, speed=1323.01/s totalWork=7
+2021-07-11 17:34:50,856 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=14200, speed=1332.07/s totalWork=7
+2021-07-11 17:34:50,868 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=15000, speed=1405.54/s totalWork=7
+2021-07-11 17:34:51,376 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=15100, speed=1350.57/s totalWork=7
+2021-07-11 17:34:51,379 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=15200, speed=1359.28/s totalWork=7
+2021-07-11 17:34:51,391 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=16000, speed=1429.17/s totalWork=7
+2021-07-11 17:34:51,899 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=16100, speed=1375.69/s totalWork=7
+2021-07-11 17:34:51,900 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=16200, speed=1384.06/s totalWork=7
+2021-07-11 17:34:51,913 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=17000, speed=1450.87/s totalWork=7
+2021-07-11 17:34:52,421 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=17000, speed=1390.51/s totalWork=7
+2021-07-11 17:34:52,424 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=17100, speed=1398.43/s totalWork=7
+2021-07-11 17:34:52,441 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=18000, speed=1469.95/s totalWork=7
+2021-07-11 17:34:52,944 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=18000, speed=1411.98/s totalWork=7
+2021-07-11 17:34:52,945 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=18100, speed=1419.63/s totalWork=7
+2021-07-11 17:34:52,959 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=19000, speed=1488.60/s totalWork=7
+2021-07-11 17:34:53,466 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=19000, speed=1431.74/s totalWork=7
+2021-07-11 17:34:53,469 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=19100, speed=1439.00/s totalWork=7
+2021-07-11 17:34:53,990 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=19900, speed=1442.69/s totalWork=7
+2021-07-11 17:34:53,991 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=20000, speed=1449.76/s totalWork=7
+2021-07-11 17:34:54,512 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=20900, speed=1459.89/s totalWork=7
+2021-07-11 17:34:54,514 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=21000, speed=1466.67/s totalWork=7
+2021-07-11 17:34:55,035 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=12 sync_batch_size=100 processed_result=21700, speed=1462.34/s totalWork=7
+2021-07-11 17:34:55,037 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=11 sync_batch_size=100 processed_result=21800, speed=1468.86/s totalWork=7
+2021-07-11 17:34:55,041 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=22000, speed=1481.99/s totalWork=7
+2021-07-11 17:34:55,558 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=22900, speed=1490.70/s totalWork=7
+2021-07-11 17:34:55,559 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=23000, speed=1497.04/s totalWork=7
+2021-07-11 17:34:56,080 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=23700, speed=1492.02/s totalWork=7
+2021-07-11 17:34:56,083 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=23800, speed=1498.08/s totalWork=7
+2021-07-11 17:34:56,086 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=24000, speed=1510.34/s totalWork=7
+2021-07-11 17:34:56,603 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=24700, speed=1505.43/s totalWork=7
+2021-07-11 17:34:56,605 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=24800, speed=1511.34/s totalWork=7
+2021-07-11 17:34:56,609 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=25000, speed=1523.16/s totalWork=7
+2021-07-11 17:34:57,125 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=25600, speed=1512.13/s totalWork=7
+2021-07-11 17:34:57,128 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=25700, speed=1517.83/s totalWork=7
+2021-07-11 17:34:57,133 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=26000, speed=1535.10/s totalWork=7
+2021-07-11 17:34:57,648 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=26500, speed=1518.40/s totalWork=7
+2021-07-11 17:34:57,650 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=26600, speed=1523.98/s totalWork=7
+2021-07-11 17:34:57,657 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=27000, speed=1546.28/s totalWork=7
+2021-07-11 17:34:58,171 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=11 sync_batch_size=100 processed_result=27500, speed=1529.85/s totalWork=7
+2021-07-11 17:34:58,173 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=10 sync_batch_size=100 processed_result=27600, speed=1535.24/s totalWork=7
+2021-07-11 17:34:58,181 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=28000, speed=1556.85/s totalWork=7
+2021-07-11 17:34:58,694 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=28600, speed=1546.11/s totalWork=7
+2021-07-11 17:34:58,696 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=28700, speed=1551.32/s totalWork=7
+2021-07-11 17:34:58,701 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=4 sync_batch_size=100 processed_result=29000, speed=1567.16/s totalWork=7
+2021-07-11 17:34:59,217 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=29400, speed=1545.64/s totalWork=7
+2021-07-11 17:34:59,219 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=29500, speed=1550.74/s totalWork=7
+2021-07-11 17:34:59,226 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=30000, speed=1576.41/s totalWork=7
+2021-07-11 17:34:59,739 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=30300, speed=1550.37/s totalWork=7
+2021-07-11 17:34:59,742 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=7 sync_batch_size=100 processed_result=30400, speed=1555.31/s totalWork=7
+2021-07-11 17:34:59,754 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=31000, speed=1585.04/s totalWork=7
+2021-07-11 17:35:00,262 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=31300, speed=1559.82/s totalWork=7
+2021-07-11 17:35:00,264 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=31400, speed=1564.62/s totalWork=7
+2021-07-11 17:35:00,274 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=3 sync_batch_size=100 processed_result=32000, speed=1593.73/s totalWork=7
+2021-07-11 17:35:00,785 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=32300, speed=1568.77/s totalWork=7
+2021-07-11 17:35:00,787 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=32400, speed=1573.50/s totalWork=7
+2021-07-11 17:35:00,797 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=33000, speed=1601.83/s totalWork=7
+2021-07-11 17:35:01,308 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=33000, speed=1563.10/s totalWork=7
+2021-07-11 17:35:01,310 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=33100, speed=1567.66/s totalWork=7
+2021-07-11 17:35:01,363 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=34000, speed=1606.24/s totalWork=7
+2021-07-11 17:35:01,877 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=10 sync_batch_size=100 processed_result=34100, speed=1572.82/s totalWork=7
+2021-07-11 17:35:01,879 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=9 sync_batch_size=100 processed_result=34200, speed=1577.22/s totalWork=7
+2021-07-11 17:35:01,893 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=0 sync_batch_size=100 processed_result=35020, speed=1614.02/s totalWork=7
+2021-07-11 17:35:02,400 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=35020, speed=1577.22/s totalWork=7
+2021-07-11 17:35:02,402 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=35120, speed=1581.59/s totalWork=7
+2021-07-11 17:35:02,922 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=8 sync_batch_size=100 processed_result=35720, speed=1571.72/s totalWork=7
+2021-07-11 17:35:02,925 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=35820, speed=1575.94/s totalWork=7
+2021-07-11 17:35:02,929 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=36020, speed=1584.46/s totalWork=7
+2021-07-11 17:35:03,445 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=9 sync_batch_size=100 processed_result=36620, speed=1575.08/s totalWork=7
+2021-07-11 17:35:03,448 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=8 sync_batch_size=100 processed_result=36720, speed=1579.21/s totalWork=7
+2021-07-11 17:35:03,454 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=5 sync_batch_size=100 processed_result=37020, speed=1591.74/s totalWork=7
+2021-07-11 17:35:03,968 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=37440, speed=1574.97/s totalWork=7
+2021-07-11 17:35:03,971 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=37540, speed=1578.98/s totalWork=7
+2021-07-11 17:35:04,490 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result_in_background remaining_qize=7 sync_batch_size=100 processed_result=37980, speed=1563.32/s totalWork=7
+2021-07-11 17:35:04,492 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=6 sync_batch_size=100 processed_result=38080, speed=1567.36/s totalWork=7
+2021-07-11 17:35:04,569 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=24.86s
+2021-07-11 17:35:05,014 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: after join remaining_qize=2 sync_batch_size=100 processed_result=38520, speed=1552.11/s totalWork=7
+2021-07-11 17:35:05,016 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: try_fetch_result periodly report remaining_qize=1 sync_batch_size=100 processed_result=38620, speed=1555.98/s totalWork=7
+2021-07-11 17:35:05,017 INFO  [DNFCalculating] log_result_queue_info:1367: calc#6: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=38640, speed=1556.76/s totalWork=7

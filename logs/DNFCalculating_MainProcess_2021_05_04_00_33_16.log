@@ -1,0 +1,22 @@
+2021-05-04 00:33:21,095 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:21,886 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-05-04 00:33:21,919 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:22,139 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-05-04 00:33:22,174 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:22,424 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:23,205 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:23,990 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:30,215 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:30,443 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-05-04 00:33:30,481 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:30,692 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-05-04 00:33:30,719 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-05-04 00:33:30,995 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:31,772 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:32,599 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:33:33,268 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-05-04 00:34:26,803 INFO  [DNFCalculating] 计算线程:1229: 开始计算
+2021-05-04 00:34:27,484 INFO  [DNFCalculating] log_result_queue_info:1242: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-05-04 00:34:27,551 WARNI [DNFCalculating] 计算线程:1341: 所有工作线程均已完成计算，总计用时=0.75s
+2021-05-04 00:34:27,992 INFO  [DNFCalculating] log_result_queue_info:1242: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-05-04 00:34:27,996 INFO  [DNFCalculating] log_result_queue_info:1242: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=63, speed=121.08/s totalWork=7

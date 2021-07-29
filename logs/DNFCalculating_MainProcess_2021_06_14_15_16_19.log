@@ -1,0 +1,13 @@
+2021-06-14 15:16:21,783 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-06-14 15:16:21,810 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-06-14 15:16:41,412 ERROR [DNFCalculating] 载入json:3481: list index out of range
+2021-06-14 15:17:51,971 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-14 15:17:52,364 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-14 15:17:52,425 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.45s
+2021-06-14 15:17:52,886 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-14 15:17:52,889 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=15, speed=28.25/s totalWork=7
+2021-06-14 15:18:19,348 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-14 15:18:19,961 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-14 15:18:20,003 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.59s
+2021-06-14 15:18:20,466 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-14 15:18:20,468 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=15, speed=28.99/s totalWork=7

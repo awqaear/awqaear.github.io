@@ -1,0 +1,27 @@
+2021-06-12 17:27:29,152 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-06-12 17:27:29,230 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-06-12 17:27:54,407 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-12 17:27:54,934 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:27:55,005 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.60s
+2021-06-12 17:27:55,445 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:27:55,448 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=22, speed=42.07/s totalWork=7
+2021-06-12 17:28:26,299 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-12 17:28:26,897 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:28:26,942 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.64s
+2021-06-12 17:28:27,402 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:28:27,404 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=44, speed=85.57/s totalWork=7
+2021-06-12 17:28:53,134 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-12 17:28:53,634 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:28:53,656 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.52s
+2021-06-12 17:28:54,139 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:28:54,142 INFO  [DNFCalculating] log_result_queue_info:1367: calc#3: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=44, speed=85.24/s totalWork=7
+2021-06-12 17:29:02,844 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-12 17:29:03,238 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:29:03,253 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.41s
+2021-06-12 17:29:03,741 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:29:03,742 INFO  [DNFCalculating] log_result_queue_info:1367: calc#4: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=33, speed=64.70/s totalWork=7
+2021-06-12 17:29:15,185 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-06-12 17:29:15,620 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:29:15,639 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.45s
+2021-06-12 17:29:16,134 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-06-12 17:29:16,137 INFO  [DNFCalculating] log_result_queue_info:1367: calc#5: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=33, speed=63.12/s totalWork=7

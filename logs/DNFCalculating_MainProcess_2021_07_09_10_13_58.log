@@ -1,0 +1,12 @@
+2021-07-09 10:14:01,396 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-07-09 10:14:01,426 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-07-09 10:15:19,720 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-09 10:15:20,476 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-09 10:15:20,580 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.86s
+2021-07-09 10:15:20,986 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-09 10:15:20,988 INFO  [DNFCalculating] log_result_queue_info:1367: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=7, speed=13.37/s totalWork=7
+2021-07-09 10:15:26,453 INFO  [DNFCalculating] 计算线程:1354: 开始计算
+2021-07-09 10:15:27,118 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=2
+2021-07-09 10:15:27,232 WARNI [DNFCalculating] 计算线程:1476: 所有工作线程均已完成计算，总计用时=0.78s
+2021-07-09 10:15:27,627 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-09 10:15:27,630 INFO  [DNFCalculating] log_result_queue_info:1367: calc#2: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=7, speed=13.51/s totalWork=7

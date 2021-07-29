@@ -1,0 +1,15 @@
+2021-07-13 22:55:23,466 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-13 22:55:24,939 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "GET /b01bfj76f HTTP/1.1" 200 5923
+2021-07-13 22:55:24,975 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-13 22:55:25,255 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "GET /b01bfj76f HTTP/1.1" 200 5925
+2021-07-13 22:55:25,283 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): wwx.lanzoui.com:443
+2021-07-13 22:55:27,301 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "POST /filemoreajax.php HTTP/1.1" 200 327
+2021-07-13 22:55:28,088 DEBUG [urllib3.connectionpool] _make_request:452: https://wwx.lanzoui.com:443 "POST /filemoreajax.php HTTP/1.1" 200 53
+2021-07-13 22:55:54,066 ERROR [DNFCalculating] 载入json:3426: list index out of range
+2021-07-13 22:55:54,221 ERROR [DNFCalculating] 载入json:3542: '阿斯特罗斯选项'
+2021-07-13 22:55:54,222 ERROR [DNFCalculating] 载入json:3568: '奥兹玛选择'
+2021-07-13 22:56:18,017 INFO  [DNFCalculating] 计算线程:1459: 开始计算
+2021-07-13 22:56:18,553 INFO  [DNFCalculating] log_result_queue_info:1472: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-13 22:56:18,644 WARNI [DNFCalculating] 计算线程:1581: 所有工作线程均已完成计算，总计用时=0.62s
+2021-07-13 22:56:19,065 INFO  [DNFCalculating] log_result_queue_info:1472: calc#1: 排行: after join remaining_qize=7 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=7
+2021-07-13 22:56:19,068 INFO  [DNFCalculating] log_result_queue_info:1472: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=8, speed=15.35/s totalWork=7

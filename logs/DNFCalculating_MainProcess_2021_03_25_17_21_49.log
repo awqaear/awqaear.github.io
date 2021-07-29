@@ -1,0 +1,27 @@
+2021-03-25 17:21:52,559 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:21:53,195 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-25 17:21:53,258 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:21:53,436 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-25 17:21:53,461 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:21:53,756 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-25 17:21:54,493 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-25 17:21:55,151 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-25 17:22:00,151 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:22:00,371 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-25 17:22:00,395 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:22:00,578 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-25 17:22:00,603 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:22:00,865 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-25 17:22:01,638 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-25 17:22:04,423 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-25 17:22:04,718 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /iIzeqnaeb4h HTTP/1.1" 200 None
+2021-03-25 17:22:04,851 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /fn?AWdQOghhDmoGaABiB2BSa1c6UGJTKgp8CzFQZwVvV2cDNVEwWTIHZwBhB2MCYlB3ACwEPAVr HTTP/1.1" 200 None
+2021-03-25 17:22:04,990 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /ajaxm.php HTTP/1.1" 200 None
+2021-03-25 17:22:04,993 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): vip.d0.baidupan.com:443
+2021-03-25 17:22:05,259 DEBUG [urllib3.connectionpool] _make_request:452: https://vip.d0.baidupan.com:443 "GET /file/?AGYCPFloV2YHDgY+ATRcMAM8AztfRANPBkdVuwX3UvJXsFGoCcNX5lSbAf8CZgAyBnJXYFI4VnoHelI9XHBafQBmAjxZaFdmBw4GOQExXGADbQM2XzgDNQYyVWsFblJkV3FRYAknVz5UNQFhAmUAOQZoV2NSNVZsByZSJFxwWmYAMgJlWTZXMgd+BmABZlxyA2sDM18vA2UGNlViBWBSZlc2UWQJYFdnVDsBMgJmAGUGOVdnUjlWNgcyUmRcM1ppAGUCZ1lmV2EHYAZpAW1cOwNtAzJfZQMvBntVOgUpUnVXIlF1CTFXcVRrATMCawAwBmhXZ1I7VmwHNlJgXCZaLwBpAjhZYVdlB2wGYQFjXGwDbwMwXzYDNAYwVWEFbVJ9V3lRIAkyV29UdQFqAmcANwZtV2RSO1ZiBzRSZVwyWmsAJgIgWXRXdAdsBmEBY1xsA28DMF80AzcGNFVmBW5SdVciUW8JJFc+VDMBZQJmAC8GbldhUjtWegcxUmRcNlp1ADMCYA== HTTP/1.1" 302 None
+2021-03-25 17:22:05,263 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): dev8apk.baidupan.com:443
+2021-03-25 17:22:05,500 DEBUG [urllib3.connectionpool] _make_request:452: https://dev8apk.baidupan.com:443 "GET /032517bb/2021/03/25/d7195ab4d9e0de54b2032e2bb198f44e.zip?st=B8duD-fl9Qsx-2iDTxwl3g&e=1616666124&b=BRNaFAlPAu9Vrl6pVuFS_bADCXeQHnwOtVTYKNFx1AzMBZlxyUigHa1N2&fi=40843877&pid=120-236-106-35&up= HTTP/1.1" 200 76384188
+2021-03-25 17:22:05,503 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (2): dev8apk.baidupan.com:443
+2021-03-25 17:22:05,720 DEBUG [urllib3.connectionpool] _make_request:452: https://dev8apk.baidupan.com:443 "GET /032517bb/2021/03/25/d7195ab4d9e0de54b2032e2bb198f44e.zip?st=B8duD-fl9Qsx-2iDTxwl3g&e=1616666124&b=BRNaFAlPAu9Vrl6pVuFS_bADCXeQHnwOtVTYKNFx1AzMBZlxyUigHa1N2&fi=40843877&pid=120-236-106-35&up= HTTP/1.1" 206 76384188
+2021-03-25 17:22:28,203 ERROR [DNFCalculating] after_downloaded:69: error=[WinError 123] 文件名、目录名或卷标语法不正确。: 'RMDIR /Q /S C:\\Users\\yjf\\Desktop\\download' 
+ detail None

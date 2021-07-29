@@ -1,0 +1,13 @@
+2021-03-23 20:45:26,692 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-23 20:45:27,070 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-23 20:45:27,094 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-23 20:45:27,225 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "GET /b01bfj76f HTTP/1.1" 200 None
+2021-03-23 20:45:27,249 DEBUG [urllib3.connectionpool] _new_conn:971: Starting new HTTPS connection (1): pan.lanzous.com:443
+2021-03-23 20:45:27,527 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-23 20:45:28,256 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-23 20:45:28,926 DEBUG [urllib3.connectionpool] _make_request:452: https://pan.lanzous.com:443 "POST /filemoreajax.php HTTP/1.1" 200 None
+2021-03-23 20:45:56,934 INFO  [DNFCalculating] 计算线程:1224: 开始计算
+2021-03-23 20:45:57,316 INFO  [DNFCalculating] log_result_queue_info:1237: calc#1: 排行: try_fetch_result_in_background remaining_qize=0 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=1
+2021-03-23 20:45:57,340 WARNI [DNFCalculating] 计算线程:1336: 所有工作线程均已完成计算，总计用时=0.40s
+2021-03-23 20:45:57,818 INFO  [DNFCalculating] log_result_queue_info:1237: calc#1: 排行: after join remaining_qize=1 sync_batch_size=100 processed_result=0, speed=0.00/s totalWork=1
+2021-03-23 20:45:57,819 INFO  [DNFCalculating] log_result_queue_info:1237: calc#1: 排行: after final remaining_qize=0 sync_batch_size=100 processed_result=1, speed=1.98/s totalWork=1
