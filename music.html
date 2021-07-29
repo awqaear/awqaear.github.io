@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        body {
+            background-color: pink;
+        }
+
+        .box {
+            width: 400px;
+            height: 100px;
+            box-shadow: 20px 20px 100px #888888;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            margin: 320px auto;
+        }
+
+        .yuan {
+            width: 110px;
+            height: 110px;
+            border: 10px solid white;
+            border-radius: 50%;
+            position: absolute;
+            left: 30px;
+            top: -40px;
+            background-position: 272px 324px;
+            transition: all 0.3s linear;
+            z-index: 999;
+        }
+
+        .yuan img {
+            width: 110px;
+            height: 110px;
+            border-radius: 50%;
+            animation: first 5s linear infinite;
+        }
+
+        .xiaoyuan {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 3px solid white;
+            background-color: darkgray;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+        }
+
+        .box button {
+            width: 60px;
+            height: 60px;
+            float: right;
+            border: 0;
+            margin-right: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+            z-index: 999;
+        }
+
+        audio {
+            display: none;
+        }
+
+        .active {
+            transform: translateY(-40px);
+        }
+
+        .mark {
+            width: 360px;
+            height: 100px;
+            border-radius: 20px;
+            position: absolute;
+            left: 20px;
+            top: 0px;
+            background-color: white;
+            z-index: -1;
+            transition: all 0.3s linear;
+        }
+
+        .mark div {
+            width: 260px;
+            height: 80px;
+            float: right;
+            text-align: center;
+        }
+
+        .mark div input {
+            margin-top: 15px;
+            width: 70%;
+        }
+
+        .activea {
+            transform: translateY(-90px);
+        }
+
+        @keyframes first {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <audio controls loop src="./music/GT.mp3"></audio>
+    <div class="box">
+        <button>下一曲</button>
+        <button>开始</button>
+        <button>上一曲</button>
+        <div class="yuan">
+            <img src="./img/05.jpg">
+            <div class="xiaoyuan"></div>
+        </div>
+        <div class="mark">
+            <div>
+                <h3>龙珠GT</h3>
+                <h3>泉姐</h3>
+                <input type="range">
+            </div>
+        </div>
+    </div>
+    <script>
+        var btn = document.querySelectorAll("button");
+        var audio = document.querySelector("audio");
+        var yuan = document.querySelector(".yuan");
+        var mark = document.querySelector(".mark");
+        btn[1].onclick = function () {
+            if (this.innerHTML == "开始") {
+                audio.play();
+                this.innerHTML = "暂停";
+                yuan.classList.add("active");
+                mark.classList.add("activea");
+            } else {
+                (this.innerHTML == "暂停")
+                audio.pause();
+                this.innerHTML = "开始";
+                yuan.classList.remove("active");
+                mark.classList.remove("activea");
+            }
+        }
+    </script>
+</body>
+
+</html>
