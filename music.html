@@ -44,7 +44,6 @@
             width: 110px;
             height: 110px;
             border-radius: 50%;
-            animation: first 5s linear infinite;
         }
 
         .xiaoyuan {
@@ -89,7 +88,7 @@
             top: 0px;
             background-color: white;
             z-index: -1;
-            transition: all 0.3s linear;
+			transition: all 0.3s linear;
         }
 
         .mark div {
@@ -117,6 +116,15 @@
                 transform: rotate(360deg);
             }
         }
+		.donghua  {
+            animation: first 5s linear infinite;
+		}
+		.zhanting {
+			animation-play-state: paused;
+		}
+        div h3 {
+            margin-top: 10px;
+        }
     </style>
 </head>
 
@@ -134,7 +142,6 @@
             <div>
                 <h3>龙珠GT</h3>
                 <h3>泉姐</h3>
-                <input type="range">
             </div>
         </div>
     </div>
@@ -143,19 +150,29 @@
         var audio = document.querySelector("audio");
         var yuan = document.querySelector(".yuan");
         var mark = document.querySelector(".mark");
+		var img = document.querySelector(".yuan img");
         btn[1].onclick = function () {
             if (this.innerHTML == "开始") {
                 audio.play();
                 this.innerHTML = "暂停";
                 yuan.classList.add("active");
+				img.classList.remove("zhanting");
+				img.classList.add("donghua");
                 mark.classList.add("activea");
             } else {
                 (this.innerHTML == "暂停")
                 audio.pause();
                 this.innerHTML = "开始";
                 yuan.classList.remove("active");
+				img.classList.add("zhanting");
                 mark.classList.remove("activea");
             }
+        }
+        btn[0].onclick = function(){
+            alert("莫得下一曲")
+        }
+        btn[2].onclick = function(){
+            alert("莫得上一曲")
         }
     </script>
 </body>
